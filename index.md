@@ -1,4 +1,4 @@
-# SweetKitty
+# Hello
 Hi, I am Jobins, a hobbyst programmer. I do low level programming
 
 ## Languages I am comfortable with
