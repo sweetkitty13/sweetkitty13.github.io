@@ -2,13 +2,13 @@
 Hi, I am Jobins, a hobbyst programmer. I do low level programming
 
 ## Languages I am comfortable with
+- Zig
 - C/C++
-- Rust
+- ~~Rust~~
 - x86 asm
 - Dart
 
 ## Languages I know
-- Zig
 - Python
 - Kotlin
 - Java
